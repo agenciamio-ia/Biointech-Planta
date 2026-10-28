@@ -1,0 +1,6 @@
+{
+  "name": "Biointech | Planta Guayacán - Casanare",
+  "description": "Planta Guayacán de Biointech SAS: infraestructura industrial de referencia en Casanare para ingeniería ambiental, biorremediación, tratamiento de aguas y valorización de residuos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
